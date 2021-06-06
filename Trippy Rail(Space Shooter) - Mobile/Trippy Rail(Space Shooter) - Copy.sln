@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trippy Rail(Space Shooter) - Copy", "Trippy Rail(Space Shooter) - Copy.csproj", "{52CB38E8-C579-5539-9C2A-552B45D9ED95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trippy Rail(Space Shooter) - Copy.Plugins", "Trippy Rail(Space Shooter) - Copy.Plugins.csproj", "{63DF5686-5A19-A398-A82A-72DBE86B954F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trippy Rail(Space Shooter) - Copy.Editor", "Trippy Rail(Space Shooter) - Copy.Editor.csproj", "{C663A031-455E-8626-3905-AAFB00C30D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trippy Rail(Space Shooter) - Copy.Editor.Plugins", "Trippy Rail(Space Shooter) - Copy.Editor.Plugins.csproj", "{2F8580C2-6566-44FD-9F15-13D3A38A580C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CB38E8-C579-5539-9C2A-552B45D9ED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CB38E8-C579-5539-9C2A-552B45D9ED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CB38E8-C579-5539-9C2A-552B45D9ED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CB38E8-C579-5539-9C2A-552B45D9ED95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DF5686-5A19-A398-A82A-72DBE86B954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DF5686-5A19-A398-A82A-72DBE86B954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DF5686-5A19-A398-A82A-72DBE86B954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DF5686-5A19-A398-A82A-72DBE86B954F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C663A031-455E-8626-3905-AAFB00C30D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C663A031-455E-8626-3905-AAFB00C30D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C663A031-455E-8626-3905-AAFB00C30D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C663A031-455E-8626-3905-AAFB00C30D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8580C2-6566-44FD-9F15-13D3A38A580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8580C2-6566-44FD-9F15-13D3A38A580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8580C2-6566-44FD-9F15-13D3A38A580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8580C2-6566-44FD-9F15-13D3A38A580C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
